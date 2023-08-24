@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/parthu311" target="blank"><img src="https://img.shields.io/twitter/follow/parthu311?logo=twitter&style=for-the-badge" alt="parthu311" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack developer **
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **parthradadiya433@gmail.com**
 
