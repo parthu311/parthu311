@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/parthu311" target="blank"><img src="https://img.shields.io/twitter/follow/parthu311?logo=twitter&style=for-the-badge" alt="parthu311" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **parthradadiya433@gmail.com**
 
-- ⚡ Fun fact **I am Funny🙃**
+- ⚡ Fun fact: I’ve got a natural talent for humor! 🙃"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
